@@ -1,3 +1,4 @@
+-- // this aint mine lol
 --[=[
 	A class which holds data and methods for ScriptSignals.
 

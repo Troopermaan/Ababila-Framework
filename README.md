@@ -9,3 +9,4 @@ You will have to obtain any new modules I add through here, and install them alo
 
 # License
 You can use this however you want, just don't be a skid and say you made shit that you didn't make. :)
+Also, not all modules here belong to me. I will specify with a comment at the top if it isn't mine.

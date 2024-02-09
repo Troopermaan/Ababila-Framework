@@ -4,7 +4,7 @@ Bullet.__index = Bullet
 -- // Types
 export type WallbangConfig = {
 	Base: number,
-	Materials: {number},
+	Materials: {[Enum.Material]: number},
 }
 
 export type Config = {

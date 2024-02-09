@@ -6,3 +6,6 @@ I will add more modules occasionally.
 Download the latest release, and import to roblox studio.  
 Keep in mind, the releases have only the essential modules pre installed (Cleaner, FastSignal).  
 You will have to obtain any new modules I add through here, and install them along with their used modules yourself.  
+
+# License
+You can use this however you want, just don't be a skid and say you made shit that you didn't make. :)
